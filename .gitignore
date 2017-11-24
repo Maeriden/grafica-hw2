@@ -1,0 +1,10 @@
+bin/
+build/
+check/
+in/
+obj/
+out/
+
+.clang-format
+.gdb_history
+gdb.sh
